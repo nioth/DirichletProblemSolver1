@@ -1,0 +1,9 @@
+D:\#Projects\ProgProjects\C#\CalcMethods3.2\DirichletProblem\obj\Debug\DirichletProblem.csprojResolveAssemblyReference.cache
+D:\#Projects\ProgProjects\C#\CalcMethods3.2\DirichletProblem\bin\Debug\DirichletProblem.dll
+D:\#Projects\ProgProjects\C#\CalcMethods3.2\DirichletProblem\bin\Debug\DirichletProblem.pdb
+D:\#Projects\ProgProjects\C#\CalcMethods3.2\DirichletProblem\bin\Debug\JetBrains.Annotations.dll
+D:\#Projects\ProgProjects\C#\CalcMethods3.2\DirichletProblem\bin\Debug\MathNet.Numerics.dll
+D:\#Projects\ProgProjects\C#\CalcMethods3.2\DirichletProblem\bin\Debug\JetBrains.Annotations.xml
+D:\#Projects\ProgProjects\C#\CalcMethods3.2\DirichletProblem\bin\Debug\MathNet.Numerics.xml
+D:\#Projects\ProgProjects\C#\CalcMethods3.2\DirichletProblem\obj\Debug\DirichletProblem.dll
+D:\#Projects\ProgProjects\C#\CalcMethods3.2\DirichletProblem\obj\Debug\DirichletProblem.pdb
